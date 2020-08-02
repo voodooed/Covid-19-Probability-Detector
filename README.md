@@ -7,7 +7,7 @@ Idea:
 4.	The model is then used to find out whom to test under a limited testing capacity.
 5.	The same model can be used to find potential candidates for conducting random tests. 
 
-#Machine Learning Model Parameters:
+## Machine Learning Model Parameters:
 
 A Team of doctors can sit down to find out best model parameters.
 A sample set of parameters is as follows:
